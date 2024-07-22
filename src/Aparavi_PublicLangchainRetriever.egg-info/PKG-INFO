@@ -1,6 +1,0 @@
-Metadata-Version: 2.1
-Name: Aparavi_PublicLangchainRetriever
-Version: 0.1
-License-File: LICENSE
-Requires-Dist: requests
-Requires-Dist: logging
